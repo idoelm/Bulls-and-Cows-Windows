@@ -10,3 +10,15 @@ C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים
 C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\ניסיון\bull\bull\obj\Debug\bull.pdb
 C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\ניסיון\bull\bull\obj\Debug\bull.GameBoard.resources
 C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\ניסיון\bull\bull\obj\Debug\bull.ColorsWindow.resources
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\bin\Debug\bull.exe.config
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\bin\Debug\bull.exe
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\bin\Debug\bull.pdb
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.csproj.AssemblyReference.cache
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.csproj.SuggestedBindingRedirects.cache
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.ChanceNumbers.resources
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.ColorsWindow.resources
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.GameBoard.resources
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.csproj.GenerateResource.cache
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.csproj.CoreCompileInputs.cache
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.exe
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\Bulls-and-Cows-windows\bull\bull\obj\Debug\bull.pdb
