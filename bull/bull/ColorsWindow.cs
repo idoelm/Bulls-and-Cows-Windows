@@ -34,7 +34,6 @@ namespace bull
             this.m_BrownButton = new System.Windows.Forms.Button();
             this.m_PurpleButton = new System.Windows.Forms.Button();
             this.m_PinkButton = new System.Windows.Forms.Button();
-            this.SuspendLayout();
             // 
             // m_YellowButton
             // 
@@ -108,6 +107,14 @@ namespace bull
             this.m_PinkButton.Size = new System.Drawing.Size(78, 68);
             this.m_PinkButton.TabIndex = 4;
             this.m_PinkButton.UseVisualStyleBackColor = false;
+            m_YellowButton.Click += ColorButtonClick;
+            m_BlueButton.Click += ColorButtonClick;
+            m_GreenButton.Click += ColorButtonClick;
+            m_RedButton.Click += ColorButtonClick;
+            m_GrayButton.Click += ColorButtonClick;
+            m_BrownButton.Click += ColorButtonClick;
+            m_PurpleButton.Click += ColorButtonClick;
+            m_PinkButton.Click += ColorButtonClick;
             // 
             // ColorsWindow
             // 
@@ -122,11 +129,7 @@ namespace bull
             this.Controls.Add(this.m_YellowButton);
             this.Name = "ColorsWindow";
             this.Text = "ColorsWindow";
-            this.Load += new System.EventHandler(this.ColorsWindow_Load);
             this.ResumeLayout(false);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-
-
         }
         private void ColorButtonClick(object sender, EventArgs e)
         {
@@ -138,11 +141,6 @@ namespace bull
         public Color SelectedColor
         {
             get { return m_SelectedColor; }
-        }
-
-        private void ColorsWindow_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

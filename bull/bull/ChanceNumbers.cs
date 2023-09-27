@@ -57,6 +57,7 @@ namespace bull
 
         private void m_ChanceNumbersButton_Click(object sender, EventArgs e)
         {
+            // Increase the counter and update the button text
             if (m_CounterChances < 10)
             {
                 m_CounterChances++;
